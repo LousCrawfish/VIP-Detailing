@@ -1,0 +1,41 @@
+
+
+.front-page {   background-image: url(https://i.imgur.com/7h76iPF.jpeg);
+                margin-left: 12%;
+                margin-right: 12%;
+                filter: grayscale(100%);
+                padding: 7% 15% 25%;
+                text-align:center;
+                }
+
+.logo { border-radius: 50%;
+        width: 75%;
+}
+
+.front-text {   color: white;
+                margin-top: 15%;}
+
+.car-div    {   background:radial-gradient(black, #5C5470);
+                padding: 10%;
+                color: white;
+                text-align: center;}
+
+.col    {   filter: saturate(100%);
+            padding: 5%;
+            padding: 3%;}
+
+.contact  { text-align: center;
+            padding: 20%;
+            background-color: #93B1A6;}
+
+.pricing { text-align: center;}
+
+.card   {  margin: 3%;}
+
+.contact-2 {    background-color: #F8F0E5;
+                text-align: center;
+                padding: 10%;
+                margin-top: 5%;}
+
+
+
